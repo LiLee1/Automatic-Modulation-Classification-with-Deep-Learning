@@ -1,3 +1,6 @@
+# 实现论文“Robust and Fast Automatic Modulation Classification with CNN under Multipath Fading Channels”中提出的CLDNN方法
+- 实验结果表明，设计的CLDNN取得了很好的识别准确率，但是在低信噪比下表现性能一般。
+
 # Automatic-Modulation-Classification-with-Deep-Learning
 Using the multi-class modulation dataset Tensorflow library with different SNR levels, different CNN models were trained with the GPU and the modulation types were classified for each SNR level.
 
